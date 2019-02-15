@@ -1,3 +1,4 @@
 <?php
-
-var_dump($_SERVER);
+echo "<pre>";
+var_dump("You typed ".$_POST['name']);
+echo "</pre>";

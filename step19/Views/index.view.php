@@ -1,6 +1,6 @@
 <?php require 'Views/Partials/head.php'; ?>
 
-<form method="GET" action="/names">
+<form method="POST" action="names">
 
 	<input  name="name">
 
